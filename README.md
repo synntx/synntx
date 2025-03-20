@@ -1,3 +1,3 @@
 Hello, I’m Harsh. 
 
-Check out my portfolio -> [portfolio](harshyadavone.vercel.app)
+check out my portfolio -> [portfolio](harshyadavone.vercel.app)
