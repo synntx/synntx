@@ -1,3 +1,8 @@
-Hello, I’m Harsh. 
-
-check out my portfolio -> [portfolio](harshyadavone.vercel.app)
+<samp>
+Hello, I’m Harsh. 👋
+</samp>
+</br>
+</br>
+<samp>
+  check out my website -&gt; <a href="https://harshyadavone.vercel.app" target="_blank" rel="noopener noreferrer">harshyadavone.vercel.app</a>
+</samp>
