@@ -1,3 +1,3 @@
-Hello, I’m Harsh. 
+`Hello, I’m Harsh. `
 
-Check out my portfolio -> [portfolio](harshyadavone.vercel.app)
+`Check out my portfolio -> [portfolio](harshyadavone.vercel.app)`
