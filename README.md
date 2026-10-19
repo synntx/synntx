@@ -4,5 +4,5 @@ Hello, I’m Harsh. 👋
 </br>
 </br>
 <samp>
-  check out my website -&gt; <a href="https://harshyadavone.vercel.app" target="_blank" rel="noopener noreferrer">harshyadavone.vercel.app</a>
+  check out my website -&gt; <a href="https://synntx.com" target="_blank" rel="noopener noreferrer">synntx.com</a>
 </samp>
